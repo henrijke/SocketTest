@@ -1,0 +1,4 @@
+nodemon oli se että se automaattisesti päivitti serverin
+ettei koko ajan tarvi node index.js
+Se tallennettiin --save-dev koska se ei oo pakollinen
+loppuprojektissa:00
